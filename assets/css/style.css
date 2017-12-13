@@ -1,0 +1,27 @@
+body {
+  background-image: url(../images/background.jpg);
+  }
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+#catagory-form {
+  text-align: right;
+}
+
+#inlineBlock {
+  display: inline-block;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+label {
+  color: white;
+}
